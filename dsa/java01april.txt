@@ -1,0 +1,39 @@
+if a tree there are n (vertices)nodes then there will be n-1edges 
+tree will follow only one path 
+aa graph is also a tree if and only if vertices are connected
+edge - the connection  link between two nodes;
+parent node - a node that has one or more children is called parent node
+child node- a node that descent from a parent node
+root node is not a child node
+the node that belongs to a same parent is known as siblings
+degree of a node-
+total number of children a particular node have is called degree of a node 
+degree of the tree- highest degree of a node among all the nodes.
+internal nodes-- the node which has atleast one children.
+leaf node-  node which do not have any child.
+
+
+levels- in tree each steps from top to bottom is called level.
+
+height of a node:
+longest path from that node to leaf node.
+height of a tree:
+longest path from root node to leaf node.
+depth of a tree:
+longest path from bottom to top.
+
+
+subtree: trees inside trees
+
+types of trees:
+regular tree 
+binary tree- there should be only two child in tree one can be there but onot more than two (at most 2 childrens).
+binary search tree - 
+ (bst) in left the nodes should be in decreasing order and in  right the nodes should be in increasing order.
+
+
+
+
+
+
+
